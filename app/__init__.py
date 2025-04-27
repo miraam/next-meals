@@ -1,0 +1,1 @@
+from .api.meal_routes import router as meal_router
